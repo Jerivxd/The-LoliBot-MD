@@ -11,8 +11,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰  
 
 global.owner = [ 
-['5492266466080', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
+['51931543536', '𝗝𝗘𝗥𝗥𝗬-👻', true],
+['51931543536', '𝗝𝗘𝗥𝗥𝗬-👻', true],
 ['593968585383'],
 ['972529277518'], 
 ['5217441745001'], 
@@ -105,13 +105,13 @@ global.ig = 'https://www.tiktok.com/@thelolibot_md'
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/KaUD3lyKY14FODb7j7k2uT' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/GUlSx2eoanhBPssKzuA48c' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/DQzurVwUv6R1QC1rCK4QPb' //enlace lolibot
+global.nna = 'https://chat.whatsapp.com/J1JaCsKvZorCygENXrLCwQ' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/J1JaCsKvZorCygENXrLCwQ' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/J1JaCsKvZorCygENXrLCwQ' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/HSpRXzVJYbH2HsIY5S695m' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/HSpRXzVJYbH2HsIY5S695m' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/HSpRXzVJYbH2HsIY5S695m' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/J1JaCsKvZorCygENXrLCwQ' //enlace lolibot
 global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
 global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
 
